@@ -1,5 +1,4 @@
-7.2 Welch test R-code:
-  7.3 Kruskal-Wallis R-code:
+
   #_________Analysis of variance_________#
   #--------------------------------------#
   # Normal (0,1) #
